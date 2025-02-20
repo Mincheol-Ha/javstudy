@@ -1,4 +1,4 @@
-package hello.chapter5.q9;
+package Exercise.chapter5.q9;
 
 public class PersonTest {
     public static void main(String[] args) {
