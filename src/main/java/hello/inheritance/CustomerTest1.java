@@ -5,13 +5,13 @@ public class CustomerTest1 {
         Customer customerLee = new Customer();
 /*        customerLee.setCustomerID(10010);
         customerLee.setCustomerName("이순신");*/
-        customerLee.bounsPoint = 1000;
+        customerLee.bonusPoint = 1000;
         System.out.println(customerLee.showCustomerInfo());
 
         VIPCustomer customerKim = new VIPCustomer();
         customerKim.setCustomerID(10020);
         customerKim.setCustomerName("김유신");
-        customerKim.bounsPoint = 10000;
+        customerKim.bonusPoint = 10000;
         System.out.println(customerKim.showCustomerInfo());
     }
 }
