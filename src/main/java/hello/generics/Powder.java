@@ -1,4 +1,4 @@
-package hello.geneerics;
+package hello.generics;
 
 public class Powder extends Material {
     public void doPrinting() {

@@ -1,4 +1,4 @@
-package hello.geneerics;
+package hello.generics;
 
 public class GenericPrinter<T extends Material>  {
     private T material;

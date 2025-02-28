@@ -1,15 +1,18 @@
-package hello.geneerics;
+package hello.generics;
 
-public class GenericPrinterTest2 {
+public class GenericPrinterTest {
     public static void main(String[] args) {
         GenericPrinter<Powder> powderPrinter = new GenericPrinter<Powder>();
+
         powderPrinter.setMeterial(new Powder());
-        powderPrinter.printing();
+        Powder powder = powderPrinter.getMeterial();
+        System.out.println(powderPrinter);
 
         GenericPrinter<Plastic> plasticPrinter = new GenericPrinter<Plastic>();
 
         plasticPrinter.setMeterial(new Plastic());
-        plasticPrinter.printing();
+        Plastic plastic = plasticPrinter.getMeterial();
+        System.out.println(plasticPrinter);
 
 
      }

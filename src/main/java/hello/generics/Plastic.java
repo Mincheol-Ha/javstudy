@@ -1,4 +1,4 @@
-package hello.geneerics;
+package hello.generics;
 
 public class Plastic extends Material {
     public void doPrinting() {
