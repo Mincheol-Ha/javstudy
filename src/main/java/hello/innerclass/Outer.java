@@ -7,7 +7,7 @@ public class Outer {
     Runnable getRunnable(int i) {
         int num = 100;
 
-        class MyRunnable implements Runnable {
+        class MyRunnable implements Runnable { // 지역 내부 클래스
             int localNum = 10;
 
             @Override
@@ -21,7 +21,7 @@ public class Outer {
                 System.out.println("Out.sNum = " + sNum + "(외부 클래스 정적 변수)");
             }
         }
-        return new MyRunnable();
+        return new MyRunnable(); // 지역 내부 클래스 이름은 클래스를 생성하여 반환할 때만 사용함
     }
 }
 
