@@ -18,7 +18,8 @@ public class UserInfoTestUsingOptional {
 
     public static void usingOptional(ArrayList<UserInfo> list) {
 
-        Optional<UserInfo> userInfoOptional = getUserInfoByIdOptional(12345, list);
+        Optional<UserInfo> userInfoOptional = getUserInfoByIdOptional(12345
+                , list);
 
         userInfoOptional.ifPresent(userInfo -> System.out.println("User name found " + userInfo.getName()));
 
