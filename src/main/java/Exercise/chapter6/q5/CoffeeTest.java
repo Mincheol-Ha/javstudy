@@ -1,4 +1,4 @@
-package Exercise.chapter6.q5;
+package exercise.chapter6.q5;
 
 public class CoffeeTest {
 

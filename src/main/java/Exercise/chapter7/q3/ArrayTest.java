@@ -1,6 +1,4 @@
-package Exercise.chapter7.q3;
-
-import ch.qos.logback.core.encoder.JsonEscapeUtil;
+package exercise.chapter7.q3;
 
 public class ArrayTest {
     public static void main(String[] args) {

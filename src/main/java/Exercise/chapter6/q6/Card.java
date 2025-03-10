@@ -1,4 +1,4 @@
-package Exercise.chapter6.q6;
+package exercise.chapter6.q6;
 
 public class Card {
     /*카드 회사에서 카드를 발급할 때마다 카드 고유 번호를 부여해 줍니다. 카드가 생성될 때마다 카드 번호가

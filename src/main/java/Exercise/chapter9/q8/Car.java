@@ -1,4 +1,4 @@
-package Exercise.chapter9.q8;
+package exercise.chapter9.q8;
 
 public abstract class Car {
     public abstract void drive();

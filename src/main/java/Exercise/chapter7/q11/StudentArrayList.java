@@ -1,6 +1,6 @@
-package Exercise.chapter7.q11;
+package exercise.chapter7.q11;
 
-import Exercise.chapter7.q9.Student;
+import exercise.chapter7.q9.Student;
 
 import java.util.ArrayList;
 

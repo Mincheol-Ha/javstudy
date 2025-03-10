@@ -1,4 +1,4 @@
-package Exercise.chapter12.q8;
+package exercise.chapter12.q8;
 
 import hello.collection.Member;
 

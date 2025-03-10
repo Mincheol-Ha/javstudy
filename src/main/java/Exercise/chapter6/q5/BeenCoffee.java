@@ -1,4 +1,4 @@
-package Exercise.chapter6.q5;
+package exercise.chapter6.q5;
 
 public class BeenCoffee {
     /* 아침 출금길에 김 씨는 4,000원을 내고 아메리카노를 사 마셨습니다. 이 씨는 4,500원을 내고

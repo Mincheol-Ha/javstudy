@@ -1,6 +1,5 @@
-package Exercise.chapter13.q7;
+package exercise.chapter13.q7;
 
-import java.util.AbstractList;
 import java.util.ArrayList;
 import java.util.List;
 

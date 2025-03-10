@@ -1,4 +1,4 @@
-package Exercise.chapter7.q11;
+package exercise.chapter7.q11;
 
 public class Student {
     private int studentID;

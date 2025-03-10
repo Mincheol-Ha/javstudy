@@ -1,4 +1,4 @@
-package Exercise.chapter11.q9;
+package exercise.chapter11.q9;
 
 public class Person {
 

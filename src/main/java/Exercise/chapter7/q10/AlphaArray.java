@@ -1,4 +1,4 @@
-package Exercise.chapter7.q10;
+package exercise.chapter7.q10;
 
 public class AlphaArray {
     public static void main(String[] args) {

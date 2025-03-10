@@ -1,4 +1,4 @@
-package Exercise.chapter5.q10;
+package exercise.chapter5.q10;
 
 public class Order {
 

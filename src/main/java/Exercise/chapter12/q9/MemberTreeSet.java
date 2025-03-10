@@ -1,6 +1,4 @@
-package Exercise.chapter12.q9;
-
-import Exercise.chapter12.q9.Member;
+package exercise.chapter12.q9;
 
 import java.util.Iterator;
 import java.util.TreeSet;

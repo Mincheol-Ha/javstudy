@@ -1,4 +1,4 @@
-package Exercise.chapter9.q8;
+package exercise.chapter9.q8;
 
 public class AICar extends Car {
     @Override

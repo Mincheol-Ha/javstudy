@@ -1,4 +1,4 @@
-package Exercise.chapter12.q9;
+package exercise.chapter12.q9;
 
 public class Member implements Comparable<Member> {
     private int memberId;

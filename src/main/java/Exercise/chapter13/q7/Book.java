@@ -1,4 +1,4 @@
-package Exercise.chapter13.q7;
+package exercise.chapter13.q7;
 
 public class Book {
     private String name;

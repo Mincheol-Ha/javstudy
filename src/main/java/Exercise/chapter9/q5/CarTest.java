@@ -1,4 +1,4 @@
-package Exercise.chapter9.q5;
+package exercise.chapter9.q5;
 
 import java.util.ArrayList;
 

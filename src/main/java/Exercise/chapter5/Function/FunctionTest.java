@@ -1,4 +1,4 @@
-package Exercise.chapter5.Function;
+package exercise.chapter5.Function;
 
 public class FunctionTest {
     //FunctionTest.java 코드레 사직 연산을 수행하는 함수를 모두 구현하고 결괏값을 출력

@@ -1,4 +1,4 @@
-package Exercise.chapter9.q7;
+package exercise.chapter9.q7;
 
 public class Bus extends  Car{
 

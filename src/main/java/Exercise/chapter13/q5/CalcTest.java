@@ -1,4 +1,4 @@
-package Exercise.chapter13.q5;
+package exercise.chapter13.q5;
 
 public class CalcTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Exercise.chapter12.q5;
+package exercise.chapter12.q5;
 
 import java.util.HashSet;
 

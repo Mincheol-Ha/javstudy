@@ -1,4 +1,4 @@
-package Exercise.chapter12.q6;
+package exercise.chapter12.q6;
 
 import java.util.HashMap;
 

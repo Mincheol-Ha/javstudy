@@ -1,6 +1,4 @@
-package Exercise.chapter12.q9;
-
-import Exercise.chapter12.q9.Member;
+package exercise.chapter12.q9;
 
 public class MemberTreeSetTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Exercise.chapter14.q5;
+package exercise.chapter14.q5;
 
 public class PasswordExceptionTest {
 

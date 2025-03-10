@@ -1,4 +1,4 @@
-package Exercise.chapter10.q8;
+package exercise.chapter10.q8;
 
 public interface Sort {
     void ascending(int[] arr);

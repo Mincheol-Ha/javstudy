@@ -1,4 +1,4 @@
-package Exercise.chapter7.q9;
+package exercise.chapter7.q9;
 
 public class StudentArray {
     public static void main(String[] args) {
