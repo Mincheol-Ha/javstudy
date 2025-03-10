@@ -21,14 +21,14 @@
 - 자바 입출력<br>
 - 스레드<br>
 ### 채팅 서버와 클라이언트<br>
-서버프로그램
-ChatServer : 채팅 서버
-ChatRunner : 통신용 Thread
-ChatRoom : 채팅 방
-
-클라이언트 프로그램
-ChatClient : TCP  Client
-ChatClientMain : Client Main Progrem
+서버프로그램<br>
+ChatServer : 채팅 서버<br>
+ChatRunner : 통신용 Thread<br>
+ChatRoom : 채팅 방<br>
+<br>
+클라이언트 프로그램<br>
+ChatClient : TCP  Client<br>
+ChatClientMain : Client Main Program<br>
 ![chatme](https://github.com/user-attachments/assets/e97059e7-a8a2-4e81-9631-13802c93c6ec)
 
 
