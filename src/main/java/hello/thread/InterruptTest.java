@@ -1,4 +1,4 @@
-package hello;
+package hello.thread;
 
 public class InterruptTest extends Thread {
     public void run() {
