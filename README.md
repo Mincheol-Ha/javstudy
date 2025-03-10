@@ -20,6 +20,18 @@
 - 예외처리<br>
 - 자바 입출력<br>
 - 스레드<br>
+### 채팅 서버와 클라이언트<br>
+서버프로그램
+ChatServer : 채팅 서버
+ChatRunner : 통신용 Thread
+ChatRoom : 채팅 방
+
+클라이언트 프로그램
+ChatClient : TCP  Client
+ChatClientMain : Client Main Progrem
+![chatme](https://github.com/user-attachments/assets/e97059e7-a8a2-4e81-9631-13802c93c6ec)
+
+
 ### 💡 목표<br>
 Java 기초부터 심화 개념까지 차근차근 학습하기<br>
 실전 프로젝트를 통해 응용력을 키우기<br>
