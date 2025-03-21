@@ -20,7 +20,8 @@
 - 예외처리<br>
 - 자바 입출력<br>
 - 스레드<br>
-### 채팅 서버와 클라이언트<br>
+### <img src="img.png" width="30" height="30"> 채팅 서버와 클라이언트<br>
+
 서버프로그램<br>
 ChatServer : 채팅 서버<br>
 ChatRunner : 통신용 Thread<br>
@@ -30,8 +31,17 @@ ChatRoom : 채팅 방<br>
 ChatClient : TCP  Client<br>
 ChatClientMain : Client Main Program<br>
 ![chatme](https://github.com/user-attachments/assets/e97059e7-a8a2-4e81-9631-13802c93c6ec)
-
-
+### 👍자바 알고리즘
+- 나열된 수에서 최솟값과 최댓값 구하기
+- 이진탐색
+- 정렬 알고리즘
+- DFS(Depth First Search)와 BFS(Breadth First Search)
+- 최단거리 구하기
+- 미로 찾기
+- 피보나치 수열 문제 여러 방식으로 해결하기
+- Greedy 알고리즘
+- 경우의 수(Brute-Force Search)
+- 특정 범위의 숫자 나열되어 있을 때 각 숫자의 개수를 세어보기
 ### 💡 목표<br>
 Java 기초부터 심화 개념까지 차근차근 학습하기<br>
 실전 프로젝트를 통해 응용력을 키우기<br>
